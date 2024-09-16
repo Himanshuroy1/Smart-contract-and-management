@@ -1,4 +1,4 @@
-# Value Manager Dapp
+# Value Manager 
 
 This project demonstrates a simple Web3 application with a Solidity smart contract and a React.js frontend. The smart contract allows setting, incrementing, decrementing, and resetting a value.
 
